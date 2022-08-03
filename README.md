@@ -7,7 +7,7 @@
 Clone the repository to your machine and install the dependencies:
 
 ```sh
-git clone git@github.com:Kralock/startertestcafe.git
+git clone git@github.com:Kralock/starterTestcafe.git
 npm install
 ```
 
