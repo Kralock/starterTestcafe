@@ -1,0 +1,18 @@
+{
+  "name": "basic-testcafe-starter",
+  "version": "1.0.0",
+  "description": "Basic TestCafe API example",
+  "main": "test.js",
+  "scripts": {
+    "test": "testcafe chrome src/tests/basic.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kralock/starter.git"
+  },
+  "author": "Kralock",
+  "license": "MIT",
+  "devDependencies": {
+    "testcafe": "*"
+  }
+}
